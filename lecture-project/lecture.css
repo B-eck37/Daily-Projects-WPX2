@@ -1,0 +1,66 @@
+body {
+    background-color: lightgray;
+}
+
+
+
+.top {
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.header-box {
+    background-color: white;
+    height: 30px;
+    
+}
+
+.header-box-left {
+    float: left;
+    width: 100px;
+}
+
+.header-box-right {
+    float: right;
+    width: 200px;
+}
+
+.container{
+    padding: 75px 150px 0px 150px
+}
+.content {
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    padding: 20px;
+}
+.button {
+    height: 50px;
+    width: 200px;
+    border-radius: 25px;
+    background-color: white;
+    margin: auto;
+}
+.button-left {
+    margin-top: 250px;
+    float: left;
+}
+.button-right {
+    margin-top: 250px;
+    float: right;
+}
+
+.main {
+    margin: auto;
+    height: 75px;
+    width: 80%;
+    background-color: white;
+}
+
+.main-small {
+    margin-top: 20px;
+    width: 60%
+}
