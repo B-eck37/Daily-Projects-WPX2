@@ -1,11 +1,32 @@
 body {
     background-color: Dark greenyellow;
 }
-.Day-1 {
-    background-color: rgb(109, 109, 241);
-    font-size: 14pt;
+.Week-1 {
+    background-color: rgb(169, 0, 241);
+    font-size: 24pt;
 }
 
 a:hover {
+    color: rgb(44, 248, 17)
+}
+
+.Day-5 {
+    display: flex;
+    flex-direction: column;
+}
+
+.Week-2 {
+    background-color: blue;
     
+    font-size: 24pt;
+}
+
+.Week-3 {
+    font-size: 24pt;
+    background-color: black;
+}
+
+.Week-3 > h2 {
+    color: white;
+    margin-top: 0;
 }
